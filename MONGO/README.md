@@ -1,0 +1,1 @@
+Here is a glimpse of trying out mongo db in both localhost and online mongodb atlas.
